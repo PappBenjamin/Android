@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">labor3</string>
+    <string name="splash_image_desc">Splash screen image</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
